@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-Please follow the documentation at [charts.wuxian.space](https://charts.wuxian.space/)!
+Please follow the documentation at [charts]([https://charts.wuxian.space/](https://charts.yuexiaoliang.com))!
 
 ## License
 
